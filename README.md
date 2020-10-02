@@ -2,8 +2,8 @@
 <a href="https://dscvit.com">
 	<img src="https://user-images.githubusercontent.com/30529572/72455010-fb38d400-37e7-11ea-9c1e-8cdeb5f5906e.png" />
 </a>
-	<h2 align="center">Wiki-web</h2>
-	<h4 align="center"> Wiki web is a GUI in which you can enter a search term or a wiki URL and a depth, it will hop those depths and give you a result of all search items you get to. You can also enter two search terms and view the number of hops between them.<h4>
+	<h2 align="center">IRIS</h2>
+	<h4 align="center"> IRIS is a GUI in which you can enter a search term or a wiki URL and a depth, it will hop those depths and give you a result of all search items you get to. You can also enter two search terms and view the number of hops between them.<h4>
 </p>
 
 ---
